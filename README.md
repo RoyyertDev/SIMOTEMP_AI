@@ -78,12 +78,12 @@ npm run dev
 
 ### Panel Principal
 
-![Panel principal](public/images/SIMOTEMP_AI.png)
+![Panel principal](public/img/SIMOTEMP_AI.png)
 
 ### Configuración de Umbrales
 
-![Modal de Umbrales](public/images/SIMOTEMP_AI-UMBRALES_MODAL.png)
+![Modal de Umbrales](public/img/SIMOTEMP_AI-UMBRALES_MODAL.png)
 
 ### Exportación de Datos
 
-![Modal de Exportación de Datos](public/images/SIMOTEMP_AI-EXPORT_DATA-MODAL.png)
+![Modal de Exportación de Datos](public/img/SIMOTEMP_AI-EXPORT_DATA-MODAL.png)
